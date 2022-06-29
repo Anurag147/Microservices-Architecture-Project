@@ -1,0 +1,12 @@
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\bin\Debug\net6.0\Ordering.Domain.deps.json
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\bin\Debug\net6.0\Ordering.Domain.dll
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\bin\Debug\net6.0\Ordering.Domain.pdb
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.csproj.AssemblyReference.cache
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.AssemblyInfoInputs.cache
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.AssemblyInfo.cs
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.dll
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\obj\Debug\net6.0\refint\Ordering.Domain.dll
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.pdb
+E:\Study\Icertis\Microservices\Microservices\Ordering.Domain\obj\Debug\net6.0\ref\Ordering.Domain.dll

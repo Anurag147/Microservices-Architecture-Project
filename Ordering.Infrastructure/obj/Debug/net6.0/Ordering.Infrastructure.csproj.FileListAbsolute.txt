@@ -1,0 +1,17 @@
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.deps.json
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.dll
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.pdb
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Application.dll
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Domain.dll
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Application.pdb
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Domain.pdb
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.AssemblyInfo.cs
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.CopyComplete
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.dll
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\obj\Debug\net6.0\refint\Ordering.Infrastructure.dll
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.pdb
+E:\Study\Icertis\Microservices\Microservices\Ordering.Infrastructure\obj\Debug\net6.0\ref\Ordering.Infrastructure.dll
